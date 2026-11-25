@@ -1,4 +1,5 @@
 # Logs
+logs/
 logs
 *.log
 npm-debug.log*
@@ -155,3 +156,5 @@ vite.config.ts.timestamp-*
 .nx/cache
 .nx/workspace-data
 .nx/migrate-runs
+
+
